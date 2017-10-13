@@ -1,4 +1,4 @@
-Collection+JSON Client for JavaScript [![Build Status](https://travis-ci.org/7elephants/collection-json.js.svg?branch=master)](https://travis-ci.org/7elephants/collection-json.js)
+Collection+JSON Client for JavaScript [![Build Status](https://travis-ci.org/7elephants/collection-json.js.svg?branch=master)](https://travis-ci.org/7elephants/collection-json.js) [![Dependencies](https://david-dm.org/7elephants/collection-json.js.svg)](https://david-dm.org/7elephants/collection-json.js)
 =====================================
 
 Documentation will be finished once the API is solidified.
