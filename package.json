@@ -1,6 +1,6 @@
 {
   "name": "collection-json",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Collection+JSON Client",
   "main": "index.js",
   "scripts": {
