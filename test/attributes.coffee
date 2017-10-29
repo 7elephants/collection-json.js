@@ -26,12 +26,6 @@ describe "Attributes", ->
         collection.version.should.equal data.collection.version
       it "should have an href", ->
         collection.href.should.equal data.collection.href
-      it "should throw an exception with a bad version number", ->
-        cj.parse {collection: version: "1.1"}, (error, col)->
-          should.exist error, "No error was returned"
-      it "should throw an exception with a malformed collection", ->
-        cj.parse {version: "1.1"}, (error, col)->
-          should.exist error, "No error was returned"
 
     describe "[error](http://amundsen.com/media-types/collection/format/#objects-error)", ->
       it "should have an error", ->
